@@ -1,0 +1,215 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(34, 33, 33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow-y: auto;
+}
+
+
+
+.container{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    border: 1px solid #4b4a4a;
+    padding: 20px;
+    background-color: 1.5px 1.5px 3px #0e0e0e, -1.5px -1.5px 3px rgb(95 94 94 / 25%), inset 0px 0px 0px #0e0e0e, inset 0px -0px 0px #5f5e5e;;
+
+    position: relative;
+    border-radius: 15px;
+    overflow-x: auto;
+    overflow-y: auto;
+    scrollbar-color: black;
+    scrollbar-width: 70px;
+    color: rgb(0, 0, 0);
+    box-shadow: 1.5px 1.5px 3px #0e0e0e, -1.5px -1.5px 3px rgb(95 94 94 / 25%), inset 0px 0px 0px #0e0e0e, inset 0px -0px 0px #5f5e5e;
+}
+
+
+h1{
+    font-size: 50px;
+    color: rgb(73, 73, 73);
+    padding-left: 210px;
+}
+
+hr{
+    position: relative;
+    left: +200px;
+    width: 300px;
+}
+
+.add{
+    color: #68676794;
+}
+
+form{
+    padding-top: 30px;
+    font-size: 35px;
+    padding-left: 85px;
+}
+
+.fill{
+    height: 35px;
+    position: relative;
+    top: -5px;
+    background: #5f5e5e;
+    border-radius: 10px;
+    padding: 0 15px 0 15px;
+    box-shadow: 2px 2px 3px #0e0e0e, -1px -1px 9px rgb(95 94 94 / 25%), inset 0px 0px 5px #0e0e0e, inset 0px -0px 0px #5f5e5e;
+}
+
+
+.stuff{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.stuff ul{
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.stuff ul li a i{
+    position: relative;
+    top: -25px;
+    padding-left: 380px;
+    color: red;
+    display: grid;
+}
+
+.stuff ul li input{
+    position: relative;
+    left: -5px;
+}
+
+.stuff .one{
+    position: relative;
+    left: +70px;
+    color: rgb(71, 71, 71);
+    background-color: rgba(44, 44, 44, 0.411);
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+    width: 500px;
+    box-shadow: 1.5px 1.5px 3px #0e0e0e, -1.5px -1.5px 3px rgb(95 94 94 / 25%), inset 0px 0px 0px #0e0e0e, inset 0px -0px 0px #5f5e5e;
+}
+
+
+.one ul{
+    list-style: none; 
+    padding-left: 20px;
+    margin: 0;
+   
+}
+.one ul li {
+    position: relative;
+    padding-left: 30px; 
+}
+
+.one ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 13px; 
+    height: 13px; 
+    background-image: url(To-Do-Img/images/unchecked.png);
+    background-size: contain; 
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+.stuff .two{
+    position: relative;
+    left: +70px;
+    width: 500px;
+    color: rgb(71, 71, 71);
+    background-color: rgba(44, 44, 44, 0.411);
+    position: relative;
+    top: +20px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 1.5px 1.5px 3px #0e0e0e, -1.5px -1.5px 3px rgb(95 94 94 / 25%), inset 0px 0px 0px #0e0e0e, inset 0px -0px 0px #5f5e5e;
+}
+
+.two ul{
+    list-style: none; 
+    padding-left: 20px;
+    margin: 0;
+   
+}
+.two ul li {
+    position: relative;
+    padding-left: 30px; 
+   
+}
+
+.two ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 13px; 
+    height: 13px; 
+    background-image: url(To-Do-Img/images/checked.png);
+    background-size: contain; 
+    background-repeat: no-repeat;
+}
+
+
+ul li span{
+    font-size: 22px;
+    color: rgb(110, 53, 53);
+    position: relative;
+    left: +350px;
+    
+}
+
+ul li span:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
