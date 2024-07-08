@@ -23,9 +23,11 @@
  2. Clone the repository by running the following command:
    ```sh
       gitclone https://github.com/Mars254/Code-Challenge.git
-      
-   ```
 
+   ```
+  
+## Deployed website 
+[Sopping List](https://mars254.github.io/Code-Challenge/)
                   
 
 
