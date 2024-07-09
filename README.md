@@ -3,9 +3,10 @@
 ### Description :This is a simple to-do list application built with HTML, CSS, and JavaScript. This application allows users to add, delete, and mark tasks as completed.
 
 ### Features *⚙️*
-- [x] Write the press release
-- [x] Update the website
-- [x] Contact the media
+- [x] **Add Items** : Easily add items to your input field and click the *Add button*.
+- [x] **Mark as Purchased** : Click the iteam to mark it as purchased.
+- [x] **Delete Item** : Click the ❌ icon to delete an item on your list.
+- [x] **Clear lit** : Click on the *clear* button to clear your list.
 
 ### Getting Started: 🤩
 Follow the instructions below to get a copy of the project up and running on your local machine. 
@@ -16,6 +17,13 @@ Follow the instructions below to get a copy of the project up and running on you
   - Create a GitHub  Account   
   - Browser capable of running Javascript          
 
+## **Folder Structure**
+      shoppingList(*week two challange*)/
+                        │
+                        ├── index.html
+                        ├── styles.css
+                        ├── script.js
+                        └── To-Do-Img
 
 ### Installations :
  1. open your terminal/CLI on your computer
@@ -25,13 +33,13 @@ Follow the instructions below to get a copy of the project up and running on you
 
    ```
   
-## Deployed website 
+## You can check the deployed website by clicking the live link below 👇 
 [Sopping List](https://mars254.github.io/Code-Challenge/)
                   
 
 
 ### Running the Aplication :
- After installing the files on your PC, Open the files in vs code, copy the path and paste it on your browser to view the program
+ After installing the files on your PC, Open the files in vs code, copy the path by right licking the 'index.html' file and paste it on your browser to view the program
 
 ### Author 
   this program was created for a Moringa School code challenge
