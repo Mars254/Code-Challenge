@@ -7,7 +7,7 @@
 - [x] Update the website
 - [x] Contact the media
 
-###Getting Started 🤩
+### Getting Started 🤩
     Follow the instructions below to get a copy of the project up and running on your local machine.
 
 ### System Requirements :
