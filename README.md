@@ -8,7 +8,7 @@
 - [x] Contact the media
 
 ### Getting Started 🤩
-       *Follow the instructions below to get a copy of the project up and running on your local machine.*
+       * Follow the instructions below to get a copy of the project up and running on your local machine. *
 
 ### System Requirements :
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
