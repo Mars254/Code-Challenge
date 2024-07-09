@@ -41,5 +41,8 @@ Follow the instructions below to get a copy of the project up and running on you
 ### Running the Aplication :
  After installing the files on your PC, Open the files in vs code, copy the path by right licking the 'index.html' file and paste it on your browser to view the program
 
+## Contributing 
+Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request with your changes.
+
 ### Author 
   this program was created for a Moringa School code challenge
