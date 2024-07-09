@@ -2,10 +2,13 @@
 
 ### Description :This is a simple to-do list application built with HTML, CSS, and JavaScript. This application allows users to add, delete, and mark tasks as completed.
 
-### Features :
+### Features *⚙️*
 - [x] Write the press release
 - [x] Update the website
 - [x] Contact the media
+
+###Getting Started 🤩
+    Follow the instructions below to get a copy of the project up and running on your local machine.
 
 ### System Requirements :
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
