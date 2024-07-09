@@ -8,9 +8,7 @@
 - [x] Contact the media
 
 ### Getting Started 🤩
-    Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+       *Follow the instructions below to get a copy of the project up and running on your local machine.*
 
 ### System Requirements :
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
