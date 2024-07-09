@@ -1,12 +1,11 @@
-# Shopping LIst
+# Shopping LIst Application 🛍️
 
-## Name : **Shopping List** 
+### Description :This is a simple to-do list application built with HTML, CSS, and JavaScript. This application allows users to add, delete, and mark tasks as completed.
 
-
-
-### Description :This webpage entails shopping list. Users can add items to the list, there are two lists for iteams needed and iteams they have, users can also delete an iteam through the x-mark.
-
-
+### Features :
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ### System Requirements :
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
