@@ -205,8 +205,8 @@ ul li span{
     font-size: 22px;
     color: rgb(110, 53, 53);
     position: relative;
-    left: +350px;
-    
+    left: +950px;
+    position: sticky;
 }
 
 ul li span:hover{
