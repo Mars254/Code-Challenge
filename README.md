@@ -8,16 +8,13 @@
 - [x] Contact the media
 
 ### Getting Started: 🤩
-        Follow the instructions below to get a copy of the project up and running on your local machine. 
+Follow the instructions below to get a copy of the project up and running on your local machine. 
 
-### System Requirements :
+### System Requirements 📌 : 
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
-  - Node 18+
   - A text editor capable of running Javascript
   - Create a GitHub  Account   
-  - Browser capable of running Javascript  
-  - RAM > 4GB 
-  - Disk Space > 1GB          
+  - Browser capable of running Javascript          
 
 
 ### Installations :
