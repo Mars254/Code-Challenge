@@ -4,8 +4,8 @@
 
 ### Features :
 - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Update the website
+- [x] Contact the media
 
 ### System Requirements :
   - Operating system (Windoes 10+, MacOS, Linux, etc.)
